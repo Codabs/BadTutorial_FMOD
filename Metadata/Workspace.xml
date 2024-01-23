@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Workspace" id="{6c761e27-e76d-4e1f-9e86-1cf9b5ff59d6}">
+		<property name="builtBanksOutputDirectory">
+			<value>../../Unity/Gamejams/BadTutorial/Assets/FmodBuild</value>
+		</property>
+		<relationship name="masterEventFolder">
+			<destination>{c02d9d83-64a8-4241-a16b-1159c442e77a}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{a815a902-12dc-41ce-8377-e9824c839d93}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{3cf3167b-2668-4726-8332-d0af881b7686}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{7fce1dec-842b-4099-8f82-06cfdbb265ff}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{11abdbb1-6560-457a-a13a-692e1b37a759}</destination>
+		</relationship>
+		<relationship name="masterSandboxFolder">
+			<destination>{6c222f86-c5ca-4431-b737-3f28d8ad9915}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{7b3a68e0-8441-4209-9255-1a2792a7b29c}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{76b92a6c-9126-4c93-b189-0206f6f096d7}</destination>
+		</relationship>
+		<relationship name="profilerSessionFolder">
+			<destination>{aad40e1c-98d7-4d3b-b4fd-e302ae222fdd}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{59e2cdd6-2508-4394-b12c-f3e28ea8cf5c}</destination>
+		</relationship>
+	</object>
+</objects>
