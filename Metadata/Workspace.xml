@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Workspace" id="{6c761e27-e76d-4e1f-9e86-1cf9b5ff59d6}">
 		<property name="builtBanksOutputDirectory">
-			<value>../../Unity/Gamejams/BadTutorial/Assets/FmodBuild</value>
+			<value>../../../Unity/Gamejams/BadTutorial/Assets/FmodBuild</value>
 		</property>
 		<relationship name="masterEventFolder">
 			<destination>{c02d9d83-64a8-4241-a16b-1159c442e77a}</destination>
