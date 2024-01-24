@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{d9976e99-b42b-403c-9192-831b0ee657c8}">
+		<property name="assetPath">
+			<value>Dialogue/Salle pleine de cible.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>11.631179138321995</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7b3a68e0-8441-4209-9255-1a2792a7b29c}</destination>
+		</relationship>
+	</object>
+</objects>
