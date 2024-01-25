@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{d441a364-5288-4646-8e51-b86b9bb88405}">
+		<property name="assetPath">
+			<value>ventillation-32646.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>24</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>35.159999999999997</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7b3a68e0-8441-4209-9255-1a2792a7b29c}</destination>
+		</relationship>
+	</object>
+</objects>
