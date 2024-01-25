@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{87f6e85a-ebcf-4551-92e2-7fdfc05c59ab}">
+		<property name="assetPath">
+			<value>Dialogue/Reussi simon.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>4.7839455782312923</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7b3a68e0-8441-4209-9255-1a2792a7b29c}</destination>
+		</relationship>
+	</object>
+</objects>
